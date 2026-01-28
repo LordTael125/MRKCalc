@@ -1,0 +1,8 @@
+AppDir
+build
+dist
+MRKCalc.spec
+MRKCalc.AppImage 
+__pycache__
+appimagetool-x86_64.AppImage
+GUI/main_patched.ui
